@@ -1,17 +1,8 @@
 import React, { useEffect, useState } from "react";
 
-const questions = [
-  {
-    question: "What is the capital of America?",
-    options: ["New York City", "Miami", "Santa Fe", "Washington DC"],
-    answer: "Washington DC",
-  },
-  {
-    question: "What is the capital of France?",
-    options: ["Paris", "London", "Berlin", "Madrid"],
-    answer: "Paris",
-  },
-];
+import "./Quiz.css";
+
+import questions from "../assets/questions.json";
 
 export default function Quiz() {
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);

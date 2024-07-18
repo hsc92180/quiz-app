@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the capital of America?",
+    "options": ["New York City", "Miami", "Santa Fe", "Washington DC"],
+    "answer": "Washington DC"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Madrid"],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": ["Berlin", "Vienna", "Zurich", "Hamburg"],
+    "answer": "Berlin"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": ["Rome", "Milan", "Naples", "Florence"],
+    "answer": "Rome"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": ["Madrid", "Barcelona", "Seville", "Valencia"],
+    "answer": "Madrid"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": ["Tokyo", "Osaka", "Kyoto", "Nagoya"],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "answer": "Canberra"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+    "answer": "Brasília"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": ["Mumbai", "New Delhi", "Bangalore", "Chennai"],
+    "answer": "New Delhi"
+  }
+]
